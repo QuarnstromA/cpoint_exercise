@@ -1,0 +1,7 @@
+
+Usage:
+    $java CardPicker <NthCard> <optional debug flag: -d>
+
+
+Debug simply prints whats happening, to verify that card shuffling is happening, and to show that the Nth card is indeed
+the Nth card drawn.
